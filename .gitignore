@@ -1,0 +1,6 @@
+.env
+venv/
+__pycache__/
+data/raw/baru/
+data/raw/arsip/
+.streamlit/secrets.toml

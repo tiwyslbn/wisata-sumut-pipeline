@@ -1,0 +1,74 @@
+LAPORAN KUALITAS DATA - dibuat 17/11/2026 05:07
+
+============================================================
+A. ALUR JUMLAH DATA (dari mentah sampai akhir)
+============================================================
+  Data mentah OSM                         : 324
+  Data mentah Wikidata                    : 1737
+  Setelah cleaning OSM                    : 190
+  Setelah cleaning Wikidata               : 122
+  Setelah deduplikasi OSM                 : 185
+  Setelah deduplikasi Wikidata            : 92
+  Setelah penggabungan 2 sumber           : 260
+  Setelah finalisasi                      : 251
+  HASIL AKHIR (setelah gabung manual)     : 246
+
+============================================================
+B. KELENGKAPAN
+============================================================
+  nama_en         :   10 dari 246 (4%)
+  wilayah         :   48 dari 246 (20%)
+  alamat          :    1 dari 246 (0%)
+  deskripsi       :   88 dari 246 (36%)
+  harga_tiket     :    1 dari 246 (0%)
+  jam_operasional :   14 dari 246 (6%)
+  website         :    5 dari 246 (2%)
+  lat             :  246 dari 246 (100%)
+  lon             :  246 dari 246 (100%)
+
+  Kelengkapan keseluruhan (7 kolom informasi): 9.7%
+  Data yang SEMUA kolom informasinya kosong: 140
+
+  Rata-rata kolom terisi menurut asal data:
+    cocok           :   16 data, rata-rata 2.56 dari 7 kolom
+    hanya_osm       :  156 data, rata-rata 0.15 dari 7 kolom
+    hanya_wikidata  :   74 data, rata-rata 1.38 dari 7 kolom
+
+============================================================
+C. KONSISTENSI
+============================================================
+  1. Kategori di luar daftar yang valid : 0
+  2. Koordinat bermasalah               : 0
+  3. Nama yang muncul lebih dari sekali : 1
+       Museum Juang 45 Sumatera Utara (3.582118478, 98.682362196) sumber: wikidata
+       Museum Juang 45 Sumatera Utara (2.985153029, 99.62787893) sumber: wikidata
+  4. Nilai wilayah unik: 30; setelah huruf kecil seragam: 30 (selisih 0 = beda huruf besar/kecil)
+  5. Nama yang mirip kalimat/komentar   : 10
+       Jabu Siho. Wonderful place.
+       Siregar aek na las (small hot springs)
+       Mess PT. SJMS
+       Hot spring. So beautiful.
+       Naturel springs. So beautiful. Polu batu name.
+       An amazing a view on Toba lake. Good for camping.
+       Lighthous and good a view on the bay.
+       Tumöri Tourist Village with several traditional North Nias houses
+       Museum Batak T.B. Silalahi ( T.B. Silalahi Center )
+       Pusat Informasi Toba Caldera UNESCO Global Geopark
+  6. Nama dengan spasi berlebih         : 0
+  7. Data dengan catatan kualitas       : 1
+       Situs Megalitik Batu Gajah (Tanggamus)
+     Data bertanda 'kemungkinan duplikat': 5
+
+============================================================
+D. KETEPATAN PENCOCOKAN DUA SUMBER
+============================================================
+  Pasangan 'cocok otomatis' diusulkan program : 18
+  Ditolak setelah pemeriksaan manual          : 2
+  Dipertahankan                               : 16 (88.9% dari usulan)
+  Rata-rata kemiripan nama / jarak (semua usulan): 0.95 / 62 m
+  Pasangan 'perlu dicek' (tidak digabung)     : 4
+  Tempat yang ada di kedua sumber             : 16 (17% dari data Wikidata)
+
+  CATATAN: angka ini hasil pemeriksaan manual sebatas nama, jarak, dan peta
+  untuk beberapa pasangan. Ini BUKAN akurasi terhadap data acuan lengkap.
+  Di laporan tulis sebagai 'hasil pemeriksaan manual'.

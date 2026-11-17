@@ -1,0 +1,325 @@
+@id,@type,name,name:en,tourism,addr:city,addr:full,opening_hours,fee,charge,website,description,@lat,@lon
+577447488,node,Museum Daerah Sumatera Utara,,museum,Medan,,,,,,,3.5679356,98.6962956
+652746404,node,Puncak,,viewpoint,,,,,,,,3.5512132,98.1197885
+665497965,node,Museum Huta Bolon Simanindo,,museum,,,,,,,,2.7523751,98.7441232
+798711742,node,,,viewpoint,,,,,,,View on Berastagi,3.1871189,98.5026165
+800519070,node,View,,viewpoint,,,,,,,,3.2437179,98.5356292
+805539542,node,,,attraction,,,,,,,Batak Village,2.9109108,98.6809606
+806519401,node,,,viewpoint,,,,,,,,2.7801231,98.8185212
+806537063,node,,,viewpoint,,,,,,,,2.6470622,98.9651462
+806537113,node,Batak King Grave,,attraction,,,,,,,,2.6513584,98.8605850
+820883617,node,Batak Village,,attraction,,,,,,,,3.0177828,98.5517161
+820947026,node,,,viewpoint,,,,,,,,1.6199907,99.2035535
+820947030,node,,,viewpoint,,,,,,,,1.8783251,99.0556999
+820947043,node,Air Panas Sipoholon,,attraction,,,,,,,,2.0751078,98.9436867
+820947062,node,,,viewpoint,,,,,,,,1.9434259,99.0164245
+820983252,node,,,viewpoint,,,,,,,,0.6861443,99.6746729
+820983254,node,,,viewpoint,,,,,,,,0.7143465,99.6367581
+820983285,node,,,viewpoint,,,,,,,,0.6510867,99.7619837
+1365279128,node,,,viewpoint,,,,,,,,2.7433632,98.8578417
+1370923862,node,Stone Chairs of Ambarita,,attraction,,,,,,,,2.6788239,98.8365415
+2424003645,node,,,viewpoint,,,,,,,,2.6796123,98.9280901
+2426255935,node,,,viewpoint,,,,,,,,2.8336999,98.7607905
+2647682955,node,Menara Tele,Observation Tower Tele,viewpoint,,,,,,,,2.5520128,98.6398277
+2823823092,node,Bat Cave,,attraction,,,,,,,,3.5365003,98.1244401
+2823825159,node,,,viewpoint,,,,,,,,3.5449578,98.1097106
+2916885940,node,Kebun Binatang,,zoo,,,,,,,,3.4829802,98.6425527
+2987851135,node,Museum Pusaka Nias,,museum,,,,,,,,1.2982269,97.6087097
+2987851140,node,Mini Zoo,,zoo,,,,,,,,1.2988645,97.6087156
+3119943106,node,Museum Batak,,museum,,,,,,,,2.6507906,98.8601900
+3119943107,node,Patung Sigale Gale,,attraction,,,,,,,,2.6518535,98.8608994
+3227825504,node,Tip Top,,attraction,medan,,,,,https://tiptop-medan.com/,,3.5860671,98.6796301
+3322728870,node,Goa Batu,,viewpoint,,,,,,,,-0.0481683,98.2654137
+3398430833,node,,,attraction,,,,,,,,2.6785958,98.8368013
+3399878099,node,Old grave ompu raja rosuhul sihaloho,,attraction,,,,,,,,2.7494140,98.7500427
+3411224027,node,Anugrah Sibayak Hot Spring,,attraction,,,,,,,,3.2241149,98.5148257
+3741552551,node,Stone Chairs,,attraction,,,,,,,,2.6769141,98.8396307
+3741717366,node,Hot Spring,Taman Wisata Sibayak hot spring,attraction,,,,,,,,3.2246365,98.5158122
+3907104060,node,Wisata Alam Armaya,,viewpoint,,,,,,,,3.4696174,98.5670789
+3982030525,node,"Elephant Camp, wash riding & river",,attraction,,,,,,,,3.6941588,98.0704042
+3982085299,node,,,viewpoint,,,,,,,,2.5606199,98.8965947
+4012182872,node,Taman Getsemani,,attraction,,,,,,,,2.6932995,98.8181854
+4012203605,node,Pantai Sibolazi,,attraction,,,,,,,,2.7484491,98.7510363
+4012637421,node,Pelabuhan Simanindo,,attraction,,,,,,,,2.7543596,98.7458933
+4012675405,node,Pantai Batu Hoda,Pantai Batu Honda Recreation Area,attraction,,,,,,,,2.7601108,98.7247160
+4012691760,node,Tugu Jala Uden,,attraction,,,,,,,,2.6780183,98.6908746
+4012695775,node,Huta Raja,,attraction,,,,,,,,2.6638815,98.6890994
+4012806071,node,Batu Sawan,,attraction,,,,,,,,2.5900426,98.6467775
+4012826890,node,Batu Parhusipan Si Boru Pareme,,attraction,,,,,,,,2.5884532,98.6327074
+4014231882,node,Kubah Lava Dasirik,,attraction,,,,,,,,2.5914113,98.6295012
+4014232253,node,Batu Hobon,,attraction,,,,,,,,2.5901259,98.6290860
+4014240949,node,Tano Ponggol,,attraction,,,,,,,,2.6113319,98.6919563
+4014241365,node,Sopo Guru Tatea Bulan,,attraction,,,,,,,,2.5918944,98.6306133
+4014267121,node,Open Stage,,attraction,,,,,,,,2.6085271,98.6971395
+4014270051,node,Pantai Ancol Pangururan,,attraction,,,,,,,,2.6064128,98.6953646
+4016487455,node,Goa Maria,,attraction,,,,,,,,2.4921819,98.8085040
+4016501340,node,Batu Guru,,attraction,,,,,,,,2.4354878,98.9157360
+4016528927,node,Latihan Paralayang,,attraction,,,,,,,,2.6177456,98.8713566
+4035824226,node,Pulau Malau,,attraction,,,,,,,,2.7580633,98.7436808
+4113263178,node,Pantai Pasi Putih Parbaba,,attraction,,,,,,,,2.6955645,98.6898366
+4113494315,node,Pantai Situngkir,,attraction,,,,,,,,2.7029554,98.6900317
+4173978397,node,,,viewpoint,,,,,,,,3.1926448,98.5021696
+4173978399,node,Gundaling Hill,,viewpoint,,,,,,,,3.1929855,98.5010161
+4270685812,node,Air Panas Ginting,,attraction,,,,,,,,3.2245190,98.5141216
+4270685829,node,Museum Pusaka Karo,,museum,,,,,,,,3.1947164,98.5084135
+4270685831,node,Pariban Hotspring,,attraction,,,,,,,,3.2256196,98.5117416
+4278110466,node,Alam Pesona,,attraction,,,,,,,,3.2212050,98.5154981
+4278110467,node,Alam Sibayak,,attraction,,,,,,,,3.2228626,98.5136555
+4278110470,node,Juana,,attraction,,,,,,,,3.2234196,98.5141878
+4278110472,node,La Megogo,,attraction,,,,,,,,3.2239579,98.5140699
+4278110473,node,Maka Berena,,attraction,,,,,,,,3.2237129,98.5141557
+4278110474,node,Purnamas,,attraction,,,,,,,,3.2231385,98.5141986
+4278110476,node,Rindu Alam,,attraction,,,,,,,,3.2243315,98.5138425
+4285772502,node,simpang pos,,attraction,,,,,,,,3.5402601,98.6544121
+4539698036,node,,,viewpoint,,,,,,,,2.5926987,98.6877341
+4555582299,node,Simalungun,,museum,,,,,,,,2.9545411,99.0610684
+4555748293,node,Temple with big statue,Temple with big statue,attraction,,,,,,,,2.9544264,99.0689594
+4830776421,node,Orangutan Feeding,Former Orangutan Feeding,attraction,,,,,,,,3.5442550,98.1158505
+4830934822,node,Alam Sibayak Hot Spring,,attraction,,,Mo-Su 10:00-22:00,,,,,3.2233662,98.5138615
+4832281023,node,Sipisopiso Waterfall Viewpoint,,viewpoint,,,,,,,,2.9156190,98.5232883
+4832286822,node,Mount Sinabung Viewpoint,,attraction,,,,,,,,3.1930520,98.5010385
+4832286823,node,Lake Toba Viewpoint,,viewpoint,,,,,,,,2.9150904,98.5237121
+4832287022,node,Rumah Bolon Raja Purba,,attraction,,,,,,,,2.9108552,98.6812589
+4833843122,node,Bolon Simanindo,,attraction,,,Mo-Su 10:30-17:00,,,,,2.7523016,98.7445322
+4833854121,node,Huta Siallagan,"Huta Siallagan (Stone Chairs, statues and execution area of King Siallagan)",attraction,,,,,,,,2.6789150,98.8364729
+4835896722,node,Daunparis Hot Spring,,attraction,,,,,,,,3.2262799,98.5121506
+4845539638,node,Viewing platform,,attraction,,,,,,,,2.7477385,98.7507857
+4845560029,node,Rice Terraces,,attraction,,,,,,,,2.4909240,98.9628960
+4952159624,node,Rustic lakeside picnic spot,,attraction,,,,,,,,2.5637983,98.8859712
+4952173122,node,Kuburan di atas pohon,Grave in a tree,attraction,,,,,,,,2.6482208,98.8625446
+4962966421,node,Genasi Viewpoint,,viewpoint,,,,,,,,0.6489820,97.8939050
+4969331323,node,Tundrumbaho Megaliths,,attraction,,,,,,,,0.8627500,97.8319667
+4969331324,node,Hilisimaetano Megaliths,,attraction,,,,,,,,0.6457000,97.7487333
+4969336423,node,Bawöhesi Megalith,,attraction,,,,,,,,1.0066756,97.6162047
+4969336425,node,Hilifalawu Megaliths,,attraction,,,,,,,,0.6769840,97.7336953
+4971982323,node,Toyolawa Japanese Bunker 1,,attraction,,,,,,,,1.4094049,97.0947724
+4971985621,node,Ambukha Japanese Bunker Complex,,attraction,,,,,,,,1.3977473,97.1175889
+4971985622,node,Toyolawa Japanese Bunker 2,,attraction,,,,,,,,1.4094787,97.0943884
+5145202723,node,Bukit beta geopark,,attraction,,,,,,,,2.6704911,98.8484682
+5147370323,node,Hot springs,,attraction,,,,,,,,2.5231589,98.7428029
+5147372421,node,Tugu Hariandja monument,,attraction,,,,,,,,2.4681061,98.9782301
+5147372422,node,Toga sinaga,,attraction,,,,,,,,2.4709544,98.8221014
+5147372821,node,,,viewpoint,,,,,,,,2.4791620,98.8010004
+5151150423,node,Hadabuan Naisogop,,attraction,,,,,,,,2.5899716,98.6223519
+5162658423,node,Masjid Baburrohman,,viewpoint,,,,,,,,1.4272746,99.3951245
+5235777521,node,Meliala - Hot Spring,,attraction,,,,,,,,3.2255216,98.5114992
+5305208124,node,Ferry to Simanindo including vehicles,,attraction,,,,,,,,2.7982982,98.7885446
+5344586921,node,,,viewpoint,,,,,,,,2.7405144,98.3952100
+5404611621,node,Taman eden 100,,attraction,,,,,,,,2.5906822,99.0388632
+5432988689,node,,,viewpoint,,,,,,,,2.6708165,98.8459245
+5491624421,node,Amazing viewpoint.,,viewpoint,,,,,,,,2.6302606,98.6545827
+5547402124,node,Monkey bridge,,attraction,,,,,,,,2.6928906,98.9267182
+5547402125,node,,,viewpoint,,,,,,,,3.2407955,98.5041665
+5547410921,node,Volleyball and soccer field,,attraction,,,,,,,,2.7406623,98.7633024
+5561025022,node,Nice view,,viewpoint,,,,,,,,2.6691144,98.8500719
+5661975821,node,Ecovillage Silimalombu,,attraction,,,,,,,,2.5572642,98.9132150
+5677999727,node,,,viewpoint,,,,,,,,2.3627622,99.0279146
+5678009723,node,Siregar aek na las (small hot springs),,attraction,,,,,,,,2.4071553,99.0438620
+5747558563,node,,,attraction,,,,,,,,3.7150632,98.7280617
+5747559053,node,Wahana Bola Air,,attraction,,,,,,,,3.7142596,98.7271994
+5747559132,node,Wahana Rakit Romance,,attraction,,,,,,,,3.7140367,98.7270760
+5747559143,node,,,attraction,,,,,,,,3.7129393,98.7273422
+5747559155,node,,,attraction,,,,,,,,3.7132297,98.7269828
+5747559181,node,Stasiun Kereta Api,,attraction,,,,,,,,3.7124274,98.7292573
+5863637593,node,Karo houses,,attraction,,,,,,,,3.1206369,98.4656454
+6062487085,node,tanjung unta,,attraction,,,,,,,,2.7720200,98.8085978
+6137065290,node,view over Bukit Lawang and river,,viewpoint,,,,,,,,3.5511248,98.1228637
+6137078017,node,The village chief's house,,attraction,,,,,,,,0.6145536,97.7703552
+6137078018,node,Tombstone viewpoint,,viewpoint,,,,,,,,2.6684631,98.8550956
+6297008387,node,Beautiful View,,viewpoint,,,,,,,,2.6000959,98.7389235
+6380387188,node,execution area,,attraction,,,,,,,,2.6786306,98.8367343
+6380559685,node,One Tree Hill,,viewpoint,,,,,,,,2.8733767,98.5032459
+6387069985,node,Samto Aek Rangat,,attraction,,,,,,,,2.5306274,98.7338081
+6427628085,node,Air Terjun Sihobuk,,attraction,,,,,,,,1.7301132,98.8262000
+6647137886,node,Traditional house,,attraction,,,,,,,,3.1197012,98.4661486
+6673462885,node,View on Mount Sinabung,,viewpoint,,,,,,,,3.1500335,98.4450450
+6690514254,node,Tugu Raja Mataniari Tambun,,museum,Toba Samosir,,,,,,,2.5175939,99.1258373
+6699743485,node,East Peak,East Peak,viewpoint,,,,,,,,3.2401588,98.5063519
+6705007385,node,View on the lake,,viewpoint,,,,,,,,2.8159758,98.7784859
+6731853130,node,,,viewpoint,,,,,,,,2.6078045,98.8663205
+6748953885,node,Sawit Karyawan Ginting,,viewpoint,,,,,,,,3.3562525,98.7089443
+6859638285,node,Simpang Tembusan Namo Rambe,,viewpoint,,,,,,,,3.3438087,98.5879053
+6859873285,node,Jeruk Cut Salsabila,,viewpoint,,,,,,,,2.9996991,98.5436797
+7037512385,node,Pantai Kasih,,viewpoint,,,,,,,,2.8265095,98.5263206
+7043031085,node,Mess PT. SJMS,,viewpoint,,,,,,,,4.0178738,98.2112021
+7048433985,node,Resort Tengku Adham,,viewpoint,,,,,,,,3.6147823,98.4145093
+7051324185,node,Agen TBS KUD Dharma Bhakti,,viewpoint,,,,,,,,3.4815574,98.1593031
+7090599685,node,,,attraction,,,,,,,,2.5984464,98.6702478
+7099658085,node,,,attraction,,,,,,,,2.3395250,99.0129931
+7099658185,node,,,viewpoint,,,,,,,,2.3441899,99.0172921
+7099658285,node,,,viewpoint,,,,,,,,2.3526122,99.0270242
+7100853985,node,Aek Natonang,,attraction,,,,,,,,2.5602893,98.8861672
+7104147185,node,TB SILALAHI Center,,museum,,,"Tu-Fr 08:00-17:00; Sa-Su 08:00-08:00, 18:00-18:00",,,http://tbsilahicenter.com,,2.3307312,99.0443655
+7221942285,node,Masjid Agung Sidikalang,,viewpoint,,,,,,,,2.7470688,98.3142041
+7252080686,node,,,museum,,,,,,,,2.6654091,98.9263874
+7273513185,node,Rest stop,,viewpoint,,,,,,,,2.6514717,98.2566839
+7273513286,node,Rest area,,viewpoint,,,,,,,,2.8435079,98.2509500
+7572111685,node,Cave,,attraction,,,,,,,,2.3086988,99.1020190
+7577816986,node,Motocross training place,,attraction,,,,,,,,2.3133344,99.0389944
+7668325585,node,Hot spring. So beautiful.,,attraction,,,,,,,,2.4051213,99.0438681
+7709968641,node,Sipinsur,,viewpoint,,,,,,,,2.3296835,98.8810381
+7741137987,node,Wonderful a view around Toba lake,,viewpoint,,,,,,,,2.8315304,98.7627476
+7743100285,node,Jabu Siho. Wonderful place.,,attraction,,,Mo-Su 09:00-22:00,,,https://www.jabusihol.com/,,2.9306846,99.0599998
+7746524285,node,Naturel springs. So beautiful. Polu batu name.,,attraction,,,,,,,,2.9773203,99.0518002
+7746524286,node,An amazing a view on Toba lake. Good for camping.,,viewpoint,,,,,,,,2.9070298,98.5168698
+7930728487,node,Pulau Nonolimbu,,attraction,,,,,,,,1.0577469,97.8896145
+7941226485,node,Lighthous and good a view on the bay.,,viewpoint,,,,,,,,0.5813742,97.7353422
+7950846185,node,Rumah Tradisional Nias Utara,Traditional North Nias house,attraction,,,Mo-Su 09:00-22:00,,,,,1.2309104,97.5900239
+8628439459,node,,,attraction,,,,,,,,2.5786734,98.6320510
+8669219775,node,Air Terjun Sigota gota,,attraction,,,,,,,,2.3555388,98.8057834
+8742853413,node,,,viewpoint,,,,,,,,0.5627680,97.8261736
+9583035185,node,Ekowisata Mangrove Sicanang,,attraction,,,,,,,,3.7585824,98.6506764
+9649280393,node,Bambu Ungu Resto,,attraction,,,,,,,,3.7037922,98.6392775
+10065906640,node,,,viewpoint,,,,,,,,3.2382791,98.5057032
+10134489617,node,Tumöri Tourist Village,,attraction,,,,,,,,1.2602032,97.6063768
+10134715318,node,Tumöri Tourist Village with several traditional North Nias houses,,attraction,,,,,,,,1.2581181,97.6056609
+10683122915,node,Taman Baloho Indah,,attraction,,,,,,,,0.5595402,97.8022913
+10699261182,node,,,viewpoint,,,,,,,,2.6719411,98.8225622
+10699261265,node,,,viewpoint,,,,,,,,2.6697557,98.8177842
+10699261266,node,,,viewpoint,,,,,,,,2.6666616,98.8190120
+10704075158,node,Hotspring,,attraction,,,,,,,,2.6184069,98.6724338
+10704076927,node,,,viewpoint,,,,,,,,2.5368558,98.7063229
+10704076928,node,,,viewpoint,,,,,,,,2.5370871,98.7058539
+10704076929,node,,,viewpoint,,,,,,,,2.5338372,98.7009836
+10706294853,node,,,viewpoint,,,,,,,,2.6639792,98.8457038
+10706294930,node,,,viewpoint,,,,,,,,2.6462918,98.8487530
+10716050979,node,,,viewpoint,,,,,,,,2.6183531,98.8715336
+10716050982,node,,,viewpoint,,,,,,,,2.5531250,98.9027570
+10980368505,node,,,viewpoint,,,,,,,,3.5397224,98.1124489
+10981689805,node,Sunrise,,viewpoint,,,,,,,,2.6184061,98.8714626
+11821082770,node,,,attraction,,,,,,,,2.5509782,98.9060005
+12149214099,node,Galeri Sejarah Tionghoa Sumut,,museum,,,,,,,,3.6144810,98.6696588
+12457999550,node,,,viewpoint,,,,,,,,3.5469884,98.1107401
+12733796286,node,,,viewpoint,,,,,,,,3.5517110,98.1111195
+13059032601,node,,,viewpoint,,,,,,,,2.6648528,98.9339568
+13061246601,node,,,viewpoint,,,,,,,,2.6737657,98.8593488
+13336385253,node,Kolam Pancing Harmony,,attraction,,,,,,,,3.7707951,98.3675536
+13345987416,node,Pantai Tiram,,viewpoint,,,,,,,,4.0315947,98.3145005
+13346192029,node,Pantai Pasir Hitam Desa Kwala,,viewpoint,,,,,,,,4.0402849,98.4358079
+13412734501,node,War Museum,,museum,,,,,,,,2.9662735,99.0932007
+13668717914,node,Namo Cengke,,attraction,,,,,,,,3.1673622,98.1557833
+14060619058,node,Bothean Tiga Urat,,viewpoint,,,,,,,,2.6291390,98.6911320
+14060748317,node,Bukit Holbung,,viewpoint,,,,,,,,2.5309942,98.6982724
+14061176515,node,Bukit Burung,,viewpoint,,,,,,,,2.6235651,98.6255864
+14092658725,node,,,viewpoint,,,,,,,,0.8045833,99.5904856
+14096836956,node,,,viewpoint,,,,,,,,2.6425649,98.6156227
+14096843913,node,,,viewpoint,,,,,,,,1.5608641,99.2872855
+14096847911,node,,,viewpoint,,,,,,,,2.0221432,98.9620898
+14096854962,node,,,viewpoint,,,,,,,,1.5478243,99.2923095
+14098975067,node,,,viewpoint,,,,,,,,2.3374202,99.0159725
+14098989942,node,Tara Bunga Panorama,,viewpoint,,,,,,,,2.3446488,99.0178464
+14099012953,node,,,viewpoint,,,,,,,,2.3514769,99.0252454
+14099020541,node,,,viewpoint,,,,,,,,2.3075139,99.0132868
+14099024993,node,,,viewpoint,,,,,,,,2.0753281,98.9445435
+14100932694,node,,,viewpoint,,,,,,,,2.3394089,98.8155918
+14100932695,node,,,viewpoint,,,,,,,,2.3540120,98.8155331
+14100932752,node,,,viewpoint,,,,,,,,2.2979786,98.7945683
+14100932753,node,,,viewpoint,,,,,,,,2.5614660,98.6515433
+14100943418,node,Huta Ginjang,,viewpoint,,,,,,,,2.3150744,98.9707746
+14100964710,node,,,viewpoint,,,,,,,,2.3363943,98.8634854
+14100970078,node,,,viewpoint,,,,,,,,2.5445286,98.6334883
+14102749930,node,,,viewpoint,,,,,,,,2.5489636,98.6377666
+14102757310,node,,,viewpoint,,,,,,,,2.6258507,98.6475424
+14102763061,node,,,viewpoint,,,,,,,,2.5824130,98.6785635
+14104995293,node,,,viewpoint,,,,,,,,2.8009425,98.5013144
+14105005958,node,,,viewpoint,,,,,,,,2.7557177,98.5692545
+14105019503,node,,,viewpoint,,,,,,,,2.8038725,98.5086650
+14105765136,node,,,viewpoint,,,,,,,,2.7349015,98.3821896
+14107549397,node,,,viewpoint,,,,,,,,2.6663779,98.2930904
+14107570165,node,,,viewpoint,,,,,,,,2.7414497,98.3771774
+14107570282,node,,,viewpoint,,,,,,,,2.9063402,98.5289174
+14107601900,node,,,viewpoint,,,,,,,,2.8444191,98.5291634
+14144440260,node,,,viewpoint,,,,,,,,3.0432185,98.1637558
+14144440262,node,,,viewpoint,,,,,,,,3.0506519,98.1429043
+14144449364,node,,,viewpoint,,,,,,,,3.0785095,98.1094898
+14144450233,node,,,viewpoint,,,,,,,,3.2626644,97.9917296
+14144450789,node,,,viewpoint,,,,,,,,3.0722368,98.1727970
+14144450791,node,,,viewpoint,,,,,,,,3.0430360,98.1604727
+14144462390,node,,,viewpoint,,,,,,,,3.0752923,98.1093466
+14144466280,node,,,viewpoint,,,,,,,,3.0787377,98.1086100
+14144482787,node,,,viewpoint,,,,,,,,3.0411727,98.1588555
+14148362928,node,,,viewpoint,,,,,,,,2.9198496,98.5490886
+14148364858,node,,,viewpoint,,,,,,,,2.9190526,98.5478332
+14148368477,node,,,viewpoint,,,,,,,,2.7419387,98.8671664
+14148400927,node,,,viewpoint,,,,,,,,3.1672743,98.4440970
+14148410639,node,,,viewpoint,,,,,,,,2.8908568,98.5492152
+14148410640,node,,,viewpoint,,,,,,,,2.8857793,98.5434167
+14148410641,node,,,viewpoint,,,,,,,,2.8355885,98.7317657
+14148410860,node,,,viewpoint,,,,,,,,2.8867393,98.6621966
+14148413159,node,,,viewpoint,,,,,,,,3.1816521,98.4274033
+14148414949,node,,,viewpoint,,,,,,,,3.1829709,98.4272465
+14148417161,node,,,viewpoint,,,,,,,,2.6958117,98.9227089
+14148419308,node,,,viewpoint,,,,,,,,2.7415795,98.8604983
+14148422654,node,,,viewpoint,,,,,,,,2.8440327,98.7264026
+14148422656,node,,,viewpoint,,,,,,,,3.1832954,98.4406641
+14148422671,node,,,viewpoint,,,,,,,,3.1843118,98.4200306
+14148423678,node,,,viewpoint,,,,,,,,3.1834353,98.4271625
+14148423680,node,,,viewpoint,,,,,,,,2.8090736,98.7744250
+14148424812,node,,,viewpoint,,,,,,,,2.8902183,98.5401542
+14148425114,node,,,viewpoint,,,,,,,,2.6644046,98.9287009
+14148425728,node,,,viewpoint,,,,,,,,2.8877295,98.6617032
+14148428707,node,,,viewpoint,,,,,,,,2.6919473,98.9233092
+14148445714,node,,,viewpoint,,,,,,,,3.1580797,98.4262484
+14148445715,node,,,viewpoint,,,,,,,,3.1845424,98.4206189
+14148445716,node,,,viewpoint,,,,,,,,3.1521881,98.4273971
+14148914710,node,Air Terjun Ponot,,viewpoint,,,,,,,,2.5550819,99.3049604
+14154266133,node,,,viewpoint,,,,,,,,2.5550148,99.3060110
+14154344454,node,,,viewpoint,,,,,,,,2.6474244,98.9319688
+14154345385,node,,,viewpoint,,,,,,,,2.7777050,98.8245885
+14154345386,node,,,viewpoint,,,,,,,,2.8170370,98.7840014
+14154346467,node,,,viewpoint,,,,,,,,3.2315326,98.3870339
+14154346468,node,,,viewpoint,,,,,,,,2.8202523,98.7779781
+14154355031,node,,,viewpoint,,,,,,,,3.1873904,98.4176295
+14154355032,node,,,viewpoint,,,,,,,,2.7786004,98.8214235
+14154357134,node,,,viewpoint,,,,,,,,3.2871637,98.3805877
+14154357135,node,,,viewpoint,,,,,,,,2.7483147,98.8474446
+14154359750,node,,,viewpoint,,,,,,,,2.8161304,98.7802518
+14154362581,node,,,viewpoint,,,,,,,,2.8247241,98.7691144
+14154363863,node,,,viewpoint,,,,,,,,2.8168909,98.7807961
+14154365904,node,,,viewpoint,,,,,,,,2.8311170,98.7646442
+14154904891,node,Ikan,,attraction,,,,,,,,2.7427623,98.8664391
+14157408466,node,,,viewpoint,,,,,,,,2.8334543,98.7562646
+14162435420,node,,,viewpoint,,,,,,,,3.6578028,98.1618861
+14267131601,node,View point on Jesus,,viewpoint,,,,,,,,2.5494373,98.6725705
+60825782,way,Museum Negeri Sumatera Utara,State Museum of North Sumatra,museum,Medan,Hm. joni,Tu-Su 08:00-16:00,,,,,3.5680478,98.6962484
+60840262,way,Mesjid Raya Al Mashun Medan,,attraction,,,,,,,,3.5751653,98.6872977
+267134735,way,Museum Daerah Sumatera Utara,,museum,,,,,,,,3.5677358,98.6958423
+267134736,way,Museum Daerah Sumatera Utara,,museum,,,,,,,,3.5678048,98.6962330
+267134903,way,,,museum,,,,,,,,3.5684513,98.6959466
+267157749,way,Monumen Pahlawan Nasional Sisingamangaraja,,attraction,,,,,,,,3.5649809,98.6929169
+288596884,way,Museum Daerah Sumatera Utara,,museum,,,,,,,,3.5678119,98.6966840
+288727130,way,Bank Mandiri,,attraction,,,,,,,,3.5849360,98.6806807
+288727156,way,Tjong A Fie Mansion,,attraction,,,,,,https://tjongafiemansion.org/,,3.5855707,98.6805566
+288727509,way,Museum Perjuangan TNI,,museum,Medan,,,,,,Monday - Friday (8AM-3.30PM),3.5838746,98.6740148
+289494045,way,Istana Maimun,,museum,,,"Mo-Su 08:00-17:00, Th 08:00-12:00,14:00-17:00",,,,Palace of Sultan Deli,3.5752371,98.6838310
+289693004,way,PDAM Menara Air Tirtanadi,,attraction,,,,,,,,3.5821751,98.6850883
+289694858,way,PT PP London Sumatera,,attraction,Medan,,Mo-Su 08:00-18:00; Apr 10-15 off; Jun 08:00-14:00; Aug off; Dec 25 off,,,,,3.5885323,98.6780933
+306968542,way,Museum Batak,,attraction,,,,,,,,2.6506690,98.8601072
+332702440,way,,,attraction,,,,,,,,2.6787930,98.8366277
+332702447,way,,,attraction,,,,,,,,2.6717908,98.8611297
+332702456,way,Tugu,,attraction,,,,,,,,2.6793113,98.8361497
+362484358,way,Museum Batak T.B. Silalahi ( T.B. Silalahi Center ),,museum,,,,,,,,2.3314221,99.0512870
+386447284,way,Pos Bloc Medan,,attraction,,,,,,,,3.5919767,98.6773803
+427989433,way,Meriam Puntung,,attraction,,,,,,,,3.5749256,98.6840526
+427989438,way,Taman Tjong Yong Hian,,attraction,,,,,,,,3.5861173,98.6693324
+524428609,way,Museum Letjen Jamin Gintings,,museum,Kabupaten Karo,,Mo off; Su 10:00-18:00; Tu-Sa 10:00-06:00,,,,,3.0609233,98.5205113
+598656299,way,Pantai Bali Lestari,,attraction,,,,,,,,3.6541035,98.9795557
+598656300,way,Pantai Pondok Permai,,attraction,,,,,,,,3.6550591,98.9770385
+606122158,way,,,attraction,,,,,,,,3.7161003,98.7288917
+606122159,way,,,attraction,,,,,,,,3.7159120,98.7270233
+629435481,way,RAZ MUSEUM & GALLERY,,museum,Medan,,Mo-Sa 08:10-15:30,,,,,3.5682311,98.6435736
+631228456,way,Gallery UMSU,,museum,,,,,,,,3.6139326,98.6746737
+636183543,way,Museum Simalungun,,museum,Pematang Siantar,,,,,,,2.9542879,99.0610318
+636328872,way,Museum Perkebunan Indonesia,,museum,Medan,,Mo-Fr 09:00-16:00; Sa 08:30-15:30,,,https://museum-perkebunan-indonesia.business.site/,,3.5565191,98.6889838
+961450067,way,Museum Perjuangan Pers Sumatera Utara,,museum,Medan,,Mo-Sa 09:00-16:00; Su 09:00-15:30,,,,,3.5858335,98.6520628
+961812423,way,Museum Uang Sumatera,,museum,Medan,,,,,,,3.5820045,98.6823629
+1044506992,way,Central Park Zoo & Resort,,zoo,,,09:00-17:00,,,,,3.4523896,98.5991889
+1046527854,way,Museum Deli Serdang,,museum,,,,,,,,3.5522469,98.8663664
+1124808949,way,Museum Situs Kota China,,museum,Medan,,,,,,,3.7230332,98.6567375
+1124809956,way,3D Art Magic Eye Museum,,museum,Deli Serdang,,Mo-Su 12:00-20:00,,,,,3.5976939,98.8310447
+1124812637,way,Rahmat International Wildlife Museum and Gallery,,museum,Medan,,Mo-Su 09:00-17:00,,,,,3.5791574,98.6677098
+1239539411,way,Pusat Informasi Toba Caldera UNESCO Global Geopark,,museum,,,,,,,,2.5935878,98.6336247
+1286713334,way,Air Mancur Menari Waterfront Pangururan,,attraction,,,,,,,,2.6038354,98.6998632
+1454193596,way,,,attraction,,,,,,,,3.7706417,98.3676044
+1550154238,way,Air Panas Sipoholon,,attraction,,,,yes,,,,2.0745114,98.9444098
+8435550,relation,Taman Air Percut,,theme_park,,,,,,,,3.7136868,98.7292104
