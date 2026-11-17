@@ -4,3 +4,4 @@ __pycache__/
 data/raw/baru/
 data/raw/arsip/
 .streamlit/secrets.toml
+backup/
