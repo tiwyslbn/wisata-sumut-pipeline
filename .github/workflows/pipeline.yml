@@ -1,0 +1,31 @@
+name: Pipeline ETL
+
+on:
+  schedule:
+    - cron: "17 21 * * *" # 21:17 UTC = 04:17 WIB
+  workflow_dispatch:
+
+concurrency:
+  group: pipeline
+  cancel-in-progress: false
+
+jobs:
+  jalankan-pipeline:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Pasang library
+        run: pip install -r requirements.txt
+
+      - name: Jalankan pipeline
+        env:
+          MONGODB_URI: ${{ secrets.MONGODB_URI }}
+          POSTGRES_URI: ${{ secrets.POSTGRES_URI }}
+        run: python pipeline.py --ekstrak --pemicu "${{ github.event_name }}"
