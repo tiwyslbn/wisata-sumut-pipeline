@@ -9,7 +9,7 @@ from datetime import datetime, timezone
 
 from dotenv import load_dotenv
 
-from koneksi import get_db
+from koneksi import baca_uri, get_db
 
 load_dotenv()
 
@@ -59,7 +59,7 @@ def hitung_jumlah():
 
     try:
         import psycopg2
-        conn = psycopg2.connect(os.getenv("POSTGRES_URI"), connect_timeout=15)
+        conn = psycopg2.connect(baca_uri("POSTGRES_URI"), connect_timeout=15)
         cur = conn.cursor()
         cur.execute("SELECT count(*) FROM wisata_sumut.tempat_wisata")
         hasil["postgres_tempat_wisata"] = cur.fetchone()[0]

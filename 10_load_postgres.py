@@ -5,7 +5,7 @@ import psycopg2
 from dotenv import load_dotenv
 from psycopg2.extras import execute_values
 
-from koneksi import get_db
+from koneksi import baca_uri, get_db
 
 load_dotenv()
 
@@ -66,7 +66,7 @@ def main():
     print("Data di MongoDB (hasil_akhir):", len(dokumen))
 
     # 2. Terhubung ke PostgreSQL
-    uri = os.getenv("POSTGRES_URI")
+    uri = baca_uri("POSTGRES_URI")
     if not uri:
         raise SystemExit("GAGAL: POSTGRES_URI tidak ditemukan. Cek file .env")
     conn = psycopg2.connect(uri, connect_timeout=15)
